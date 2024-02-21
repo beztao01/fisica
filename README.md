@@ -1,2 +1,2 @@
-# locomoción
+# Física
 Un sitio académico
