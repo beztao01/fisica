@@ -1,2 +1,2 @@
-# Física
+# Física y simulación
 Un sitio académico
